@@ -26,7 +26,8 @@
             <groupId>com.harium</groupId>
             <artifactId>etyl</artifactId>
             <version>1.0.4</version>
-	    <scope>provided</scope>
+            <scope>compile</scope>
+            <optional>true</optional>
         </dependency>
 	<dependency>
             <groupId>com.github.trixt0r</groupId>
